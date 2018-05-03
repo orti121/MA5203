@@ -3,7 +3,7 @@ El proyecto del ramo de Machine Learning
 
 Recursos:
 
-https://www.physionet.org/challenge/2017/
+https://www.physionet.org/challenge/2017/  <- De acá salieron los datos
 
 https://arxiv.org/pdf/1710.06122.pdf
 
